@@ -23,7 +23,7 @@ UPTIME = time.time()
 # Admins, Channels & Users
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1083324269').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002125932665').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002055954003').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 auth_channel = environ.get('AUTH_CHANNEL')
@@ -57,7 +57,7 @@ SHORTLINK_API = environ.get('SHORTLINK_API', '23e1a29b37b7b23a15b449b783600dc1e3
 # Others
 IMDB_DELET_TIME = int(environ.get('IMDB_DELET_TIME', "300"))
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002113933600'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+Az_CHIVozrVjMWI1')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '+daGzSu_bWhYxMmNl')
 P_TTI_SHOW_OFF = is_enabled(environ.get('P_TTI_SHOW_OFF', "True"), True)
 PM_IMDB = is_enabled(environ.get('PM_IMDB', "True"), True)
 IMDB = is_enabled(environ.get('IMDB', "True"), True)
