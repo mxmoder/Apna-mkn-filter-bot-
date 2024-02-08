@@ -52,9 +52,8 @@ BUTTON_LOCK = is_enabled(environ.get("BUTTON_LOCK", "True"), True)
 RemoveBG_API = environ.get("RemoveBG_API", "")
 
 # url shortner
-SHORT_URL = environ.get("indianshortner.com")
-SHORT_API = environ.get("23e1a29b37b7b23a15b449b783600dc1e3b3fab1")
-
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'indianshortner.com')
+SHORTLINK_API = environ.get('SHORTLINK_API', '23e1a29b37b7b23a15b449b783600dc1e3b3fab1')
 # Others
 IMDB_DELET_TIME = int(environ.get('IMDB_DELET_TIME', "300"))
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002113933600'))
