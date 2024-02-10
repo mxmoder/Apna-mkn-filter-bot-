@@ -8,11 +8,11 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/mxmode_owner>𝐦𝐱𝐦𝐨𝐝𝐞_𝐨𝐰𝐧𝐞𝐫 𝐓𝐆</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/mxmode_owner>𝐦𝐱𝐦𝐨𝐝𝐞 𝐨𝐰𝐧𝐞𝐫 𝐓𝐆</a>
 
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/mxmode_owner>𝐦𝐱𝐦𝐨𝐝𝐞_𝐨𝐰𝐧𝐞𝐫</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/mxmode_owner>𝐦𝐱𝐦𝐨𝐝𝐞 𝐨𝐰𝐧𝐞𝐫</a>
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
