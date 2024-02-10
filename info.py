@@ -17,7 +17,7 @@ BOT_TOKEN = environ['BOT_TOKEN']
 
 # Bot settings
 WEBHOOK = bool(environ.get("WEBHOOK", True)) # for web support on/off
-PICS = (environ.get('PICS' ,'https://graph.org/file/01ddfcb1e8203879a63d7.jpg https://graph.org/file/d69995d9846fd4ad632b8.jpg https://graph.org/file/a125497b6b85a1d774394.jpg https://graph.org/file/43d26c54d37f4afb830f7.jpg https://graph.org/file/60c1adffc7cc2015f771c.jpg https://graph.org/file/d7b520240b00b7f083a24.jpg https://graph.org/file/0f336b0402db3f2a20037.jpg https://graph.org/file/39cc4e15cad4519d8e932.jpg https://graph.org/file/d59a1108b1ed1c6c6c144.jpg https://te.legra.ph/file/3a4a79f8d5955e64cbb8e.jpg https://graph.org/file/d69995d9846fd4ad632b8.jpg')).split()
+PICS = (environ.get('PICS' ,'https://telegra.ph/file/864eb21067354a70fa921.jpg   https://telegra.ph/file/8c6bb023ad1b3dc3fe624.jpg https://telegra.ph/file/80af2f35d03ff9a337a1c.jpg https://telegra.ph/file/91df6ab78cdc8396c8924.jpg https://telegra.ph/file/43dcf738ea9ed1d112fad.jpg https://telegra.ph/file/4eb5d5abe091a8f9d4cdc.jpg https://telegra.ph/file/402377cd7412e798913c5.jpg https://telegra.ph/file/b6815decacf6b50e7a05d.jpg https://telegra.ph/file/d5d37affc3b99470d171b.jpg https://telegra.ph/file/f7da13792c5f9729fee28.jpg https://telegra.ph/file/7e5b7391f5045577c2078.jpg')).split()
 UPTIME = time.time()
 
 # Admins, Channels & Users
